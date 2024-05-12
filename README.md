@@ -21,7 +21,7 @@ documentation/: Includes documentation of the data preprocessing steps and DVC s
 data/: Stores processed data CSV files.
 
 **Usage:**
-Clone the repository: git clone https://github.com/your-username/your-repository.git
+Clone the repository: git clone https://github.com/anszeshan/Mlops-Assignment-DVC.git
 Navigate to the project directory: cd your-repository
 Execute the Python scripts for data extraction, transformation, and storage.
 Access the processed data CSV files in the data/ directory.
